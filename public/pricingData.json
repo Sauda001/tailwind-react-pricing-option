@@ -1,0 +1,52 @@
+  [  
+      {
+        "id": 1,
+        "name": "Basic",
+        "price": "$29/mo",
+        "description": "Perfect for beginners who want access to essential equipment and facilities.",
+        "features": [
+          "Access to gym floor",
+          "Free locker usage",
+          "1 complimentary training session",
+          "Open 6AM - 10PM",
+          "Basic fitness tracker access",
+          "Monthly workout plan",
+          "Access to yoga mats and stretch area"
+        ]
+        },
+      {
+        "id": 2,
+        "name": "Standard",
+        "price": "$49/mo",
+        "description": "Great for regular gym-goers who want extra perks and flexibility.",
+        "features": [
+          "All Basic features",
+          "Unlimited group classes",
+          "5 guest passes/month",
+          "Free WiFi + lounge access",
+          "Advanced fitness tracker access",
+          "Priority booking for group classes",
+          "Access to cycling and HIIT sessions",
+          "Exclusive members-only events"
+        ],
+        "highlight": true
+      },
+      {
+        "id": 3,
+        "name": "Premium",
+        "price": "$79/mo",
+        "description": "For fitness enthusiasts who want full access, flexibility, and personal support.",
+        "features": [
+          "All Standard features",
+          "Daily personal training",
+          "Sauna + steam room access",
+          "Priority support + nutritionist",
+          "Exclusive access to VIP lounge",
+          "Complimentary wellness assessments",
+          "Unlimited guest passes",
+          "Free fitness workshops and seminars",
+          "Access to massage therapy services"
+        ]
+    }
+
+]
