@@ -1,0 +1,83 @@
+[
+    {
+      "name": "Ayaan",
+      "marks": {
+        "physics": 85,
+        "chemistry": 78,
+        "biology": 92
+      }
+    },
+    {
+      "name": "Diya",
+      "marks": {
+        "physics": 91,
+        "chemistry": 88,
+        "biology": 95
+      }
+    },
+    {
+      "name": "Rohan",
+      "marks": {
+        "physics": 76,
+        "chemistry": 69,
+        "biology": 80
+      }
+    },
+    {
+      "name": "Meera",
+      "marks": {
+        "physics": 89,
+        "chemistry": 94,
+        "biology": 90
+      }
+    },
+    {
+      "name": "Kabir",
+      "marks": {
+        "physics": 72,
+        "chemistry": 60,
+        "biology": 65
+      }
+    },
+    {
+      "name": "Sneha",
+      "marks": {
+        "physics": 95,
+        "chemistry": 97,
+        "biology": 93
+      }
+    },
+    {
+      "name": "Arjun",
+      "marks": {
+        "physics": 68,
+        "chemistry": 73,
+        "biology": 70
+      }
+    },
+    {
+      "name": "Ishita",
+      "marks": {
+        "physics": 81,
+        "chemistry": 85,
+        "biology": 87
+      }
+    },
+    {
+      "name": "Vivaan",
+      "marks": {
+        "physics": 77,
+        "chemistry": 74,
+        "biology": 79
+      }
+    },
+    {
+      "name": "Anaya",
+      "marks": {
+        "physics": 88,
+        "chemistry": 90,
+        "biology": 91
+      }
+    }
+  ]
+  
